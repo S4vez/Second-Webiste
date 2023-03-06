@@ -1,0 +1,45 @@
+body{
+    margin:0px;
+    
+}
+
+h1{
+    margin-top: 0;
+
+}
+
+.web{
+    text-decoration: underline;
+    
+}
+.mount{
+    position: relative;
+}
+
+.one{
+    background-color: #DBE2EF;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: solid ;
+    position: relative;
+     
+    
+    
+    
+}
+.two{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    
+    
+        
+}
+.three{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+   
+    
+}
